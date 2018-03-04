@@ -1,2 +1,2 @@
 # online-news-alexa-ranks
-US Alexa Ranks of Online News Sites
+Web scraping of Alexa Ranks in the United States of online news sites over time.
