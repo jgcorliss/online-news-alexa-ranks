@@ -10,7 +10,7 @@ id,name,url
 8,The Hill,thehill.com
 9,The Intercept,theintercept.com
 10,CNN,cnn.com
-11,LA Times,latimes.com
+11,Los Angeles Times,latimes.com
 12,SFGate,sfgate.com
 13,ThinkProgress,thinkprogress.org
 14,New York Post,nypost.com
@@ -78,3 +78,20 @@ id,name,url
 78,New York,nymag.com
 79,The Week,theweek.com
 80,Inquisitr,inquisitr.com
+81,The Mercury News,mercurynews.com
+82,Chicago Sun-Times,suntimes.com
+83,The Denver Post,denverpost.com
+84,Chicago Tribune,chicagotribune.com
+85,The Dallas Morning News,dallasnews.com
+86,Newsday,newsday.com
+87,Orange County Register,ocregister.com
+88,The Star-Ledger,nj.com
+89,Tampa Bay Times,tampabay.com
+90,The Plain Dealer,cleveland.com
+91,The Philadelphia Inquirer,philly.com
+92,Star Tribune,startribune.com
+93,The Arizona Republic,azcentral.com
+94,Honolulu Star-Advertiser,staradvertiser.com
+95,Las Vegas Review-Journal,reviewjournal.com
+96,The San Diego Union-Tribune,sandiegouniontribune.com
+97,The Christian Science Monitor,csmonitor.com
